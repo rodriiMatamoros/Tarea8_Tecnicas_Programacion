@@ -1,7 +1,7 @@
 # Tarea8_Tecnicas_Programacion-
 Tarea 8 Curso_22_23_Tecnicas
 
-Mi repositorio es:
+Mi repositorio es: https://github.com/rodriiMatamoros/Tarea8_Tecnicas_Programacion-.git
 
 # Ejercicios
 ## 1. La guerra de dados
